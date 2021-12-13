@@ -31,6 +31,7 @@ export default function Dictionary(props) {
   if (loaded) {
     return (
       <div className="Dictionary">
+        <h5>German to German dictionary 📖</h5>
         <section>
           <h1>
             What German word do you want to look up? / Welches deutsche Wort
