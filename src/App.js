@@ -15,7 +15,24 @@ export default function App() {
           bleblablabalbla
         </section>
         <footer className="App-footer">
-          <small>Coded by BM</small>
+          <small>
+            This project was coded by{" "}
+            <a
+              href="https://www.linkedin.com/in/beatriz-matafora-bab991108/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Beatriz Matafora
+            </a>
+            , open-sourced on{" "}
+            <a
+              href="https://github.com/servivo/dictionary-app"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              GitHub
+            </a>
+          </small>
         </footer>
       </div>
     </div>
