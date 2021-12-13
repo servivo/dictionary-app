@@ -9,3 +9,15 @@ body {
     background: #E0BB20;
     color: #000000;
 }
+.about {
+     background: #E0BB20;
+   padding: 30px;
+   border-radius: 16px;
+   box-shadow: 0 10px 15px rgb(0 0 0 / 10%);
+   margin: 20px 0;
+}
+h4 {
+      font-size: 22px;
+    font-weight: bold;
+    color: #841818;
+}
