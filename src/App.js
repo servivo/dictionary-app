@@ -8,7 +8,7 @@ export default function App() {
       <div className="container">
         <header className="App-header"></header>
         <main>
-          <Dictionary defaultKeyword="heute" />
+          <Dictionary defaultKeyword="Code" />
         </main>
         <section className="about">
           <h4>About the project</h4>

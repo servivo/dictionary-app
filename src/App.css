@@ -35,3 +35,7 @@ a, a:visited{
 a:hover {
     color: #841818;
 }
+.App {
+    max-width: 980px;
+    margin: 0 auto;
+}
