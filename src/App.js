@@ -29,7 +29,7 @@ export default function App() {
             Free Dictionary APi{" "}
           </a>{" "}
           which currently supports phonetic transcription, word class, word
-          definition and usage examples for German language. The page won't
+          definition and usage examples for German language. The definition won't
           reload when a word that is not saved in the API is typed. For the
           photos I am working with the{" "}
           <a
