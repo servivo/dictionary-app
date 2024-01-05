@@ -42,28 +42,7 @@ export default function App() {
           I strive to keep on improving this page and helping others to learn
           German. Viel Erfolg! 🍀
         </section>
-        <footer className="App-footer">
-          <small>
-            This project was coded by{" "}
-            <a
-              href="https://www.linkedin.com/in/beatriz-matafora-bab991108/"
-              target="_blank"
-              title="Follow me on LinkedIn 😊"
-              rel="noopener noreferrer"
-            >
-              Beatriz Matafora
-            </a>
-            , open-sourced on{" "}
-            <a
-              href="https://github.com/servivo/dictionary-app"
-              target="_blank"
-              title="Follow me on GitHub 😄"
-              rel="noopener noreferrer"
-            >
-              GitHub
-            </a>
-          </small>
-        </footer>
+    
       </div>
     </div>
   );
